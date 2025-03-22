@@ -1,7 +1,7 @@
 import csv
 import json
 
-# Read the CSV file and process data { csv comment vijay R edited}
+# Read the CSV file and process data { csv comment vijay.. R edited}
 csv_file =  r"C:\Users\91966\Downloads\Book1.csv" # Change this to your actual file name
 json_file = "output.json"
 
